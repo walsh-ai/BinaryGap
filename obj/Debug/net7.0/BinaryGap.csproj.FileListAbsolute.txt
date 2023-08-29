@@ -1,0 +1,14 @@
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\BinaryGap\bin\Debug\net7.0\BinaryGap.exe
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\BinaryGap\bin\Debug\net7.0\BinaryGap.deps.json
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\BinaryGap\bin\Debug\net7.0\BinaryGap.runtimeconfig.json
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\BinaryGap\bin\Debug\net7.0\BinaryGap.dll
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\BinaryGap\bin\Debug\net7.0\BinaryGap.pdb
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\BinaryGap\obj\Debug\net7.0\BinaryGap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\BinaryGap\obj\Debug\net7.0\BinaryGap.AssemblyInfoInputs.cache
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\BinaryGap\obj\Debug\net7.0\BinaryGap.AssemblyInfo.cs
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\BinaryGap\obj\Debug\net7.0\BinaryGap.csproj.CoreCompileInputs.cache
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\BinaryGap\obj\Debug\net7.0\BinaryGap.dll
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\BinaryGap\obj\Debug\net7.0\refint\BinaryGap.dll
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\BinaryGap\obj\Debug\net7.0\BinaryGap.pdb
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\BinaryGap\obj\Debug\net7.0\BinaryGap.genruntimeconfig.cache
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\BinaryGap\obj\Debug\net7.0\ref\BinaryGap.dll
